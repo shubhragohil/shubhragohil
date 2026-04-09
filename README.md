@@ -71,7 +71,7 @@ environments
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: sgohilshubhra@gmail.com  
+- 📧 Email: gohilshubhra@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/shubhra15/
 - 💻 GitHub: https://github.com/shubhragohil
 
